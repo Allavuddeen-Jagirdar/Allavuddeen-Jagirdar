@@ -6,6 +6,7 @@
 - 📫 How to reach me: Feel free to connect via [LinkedIn](https://www.linkedin.com/in/allavuddeen-jagirdar-3931281a1/) or drop me an email at allavuddeenjagirdar25@gmail.com.
 
 
+
 - My Certifications and Courses
 - [Microsoft Certified: Azure Data Engineer Associate(DP203)](https://learn.microsoft.com/en-us/users/allavuddeen-2618/credentials/58d03d7c7abadf21?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft Certified: Azure Fundamentals(AZ900)](https://learn.microsoft.com/en-us/users/allavuddeen-2618/credentials/76a794e7fd338e94?ref=https%3A%2F%2Fwww.linkedin.com%2F)
