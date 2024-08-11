@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advanced data architecture, machine learning integration, and enhancing my skills in ETL pipelines and data governance.
 - 💞️ I’m looking to collaborate on projects involving data transformation, analytics, and building scalable data platforms.
 - 📫 How to reach me: Feel free to connect via [LinkedIn](https://www.linkedin.com/in/allavuddeen-jagirdar-3931281a1/) or drop me an email at allavuddeenjagirdar25@gmail.com.
-- 😄 My pronouns are: He/His/Him
+
 
 - My Certifications and Courses
 - [Microsoft Certified: Azure Data Engineer Associate(DP203)](https://learn.microsoft.com/en-us/users/allavuddeen-2618/credentials/58d03d7c7abadf21?ref=https%3A%2F%2Fwww.linkedin.com%2F)
